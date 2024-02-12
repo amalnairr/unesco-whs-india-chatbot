@@ -1,0 +1,11 @@
+streamlit
+chromadb
+bs4
+requests
+openai
+langchain
+langchain-community
+langchain_openai==0.0.5 
+tiktoken==0.5.2
+wikipedia-api
+unstructured
